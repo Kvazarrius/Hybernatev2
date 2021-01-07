@@ -2,6 +2,8 @@ package jm.task.core.jdbc.dao;
 
 import jm.task.core.jdbc.model.User;
 
+import javax.persistence.Entity;
+import javax.transaction.SystemException;
 import java.util.List;
 
 public interface UserDao {
@@ -9,7 +11,7 @@ public interface UserDao {
 
     void dropUsersTable();
 
-    void saveUser(String name, String lastName, byte age);
+    void saveUser(String name, String lastName, byte age) throws SystemException;
 
     void removeUserById(long id);
 

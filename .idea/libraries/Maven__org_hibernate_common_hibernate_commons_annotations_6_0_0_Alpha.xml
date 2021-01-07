@@ -1,0 +1,59 @@
+<component name="libraryTable">
+  <library name="Maven: org.hibernate.common:hibernate-commons-annotations:6.0.0.Alpha">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/documentation/javadocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/documentation/src/main/asciidoc/integrationguide/chapters/services/extras" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/documentation/src/main/asciidoc/integrationguide/chapters/services/extras/extend" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/documentation/src/main/asciidoc/integrationguide/chapters/services/extras/override" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/documentation/src/main/asciidoc/quickstart/tutorials/annotations/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/documentation/src/main/asciidoc/quickstart/tutorials/basic/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/documentation/src/main/asciidoc/quickstart/tutorials/entitymanager/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/documentation/src/main/asciidoc/quickstart/tutorials/envers/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/documentation/src/main/asciidoc/quickstart/tutorials/osgi/managed-jpa/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/documentation/src/main/asciidoc/quickstart/tutorials/osgi/unmanaged-jpa/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/documentation/src/main/asciidoc/quickstart/tutorials/osgi/unmanaged-native/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/documentation/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/documentation/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/documentation/src/test_legacy" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-agroal/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-agroal/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-c3p0/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-c3p0/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-core/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-core/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-core/src/test_legacy" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-ehcache/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-ehcache/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-envers/src/demo/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-envers/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-envers/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-envers/src/test_legacy" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-graalvm/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-graalvm/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-hikaricp/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-hikaricp/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-integrationtest-java-modules/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-integrationtest-java-modules/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-jcache/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-jcache/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-osgi/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-osgi/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-proxool/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-proxool/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-spatial/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-spatial/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-testing/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-testing/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-vibur/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/hibernate-vibur/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/tooling/hibernate-enhance-maven-plugin/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/tooling/hibernate-enhance-maven-plugin/src/test/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/tooling/hibernate-gradle-plugin/src/main/groovy" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/tooling/metamodel-generator/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-release-6.0.0.Alpha6.zip!/hibernate-release-6.0.0.Alpha6/project/tooling/metamodel-generator/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

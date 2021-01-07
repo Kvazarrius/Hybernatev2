@@ -1,10 +1,14 @@
 package jm.task.core.jdbc.dao;
 
 import jm.task.core.jdbc.model.User;
+import jm.task.core.jdbc.util.Util;
+import org.hibernate.Session;
 
+import javax.transaction.SystemException;
+import javax.transaction.Transaction;
 import java.util.List;
 
-public class UserDaoJDBCImpl implements UserDao {
+public abstract class UserDaoJDBCImpl implements UserDao {
     public UserDaoJDBCImpl() {
 
     }
@@ -17,7 +21,9 @@ public class UserDaoJDBCImpl implements UserDao {
 
     }
 
-    public void saveUser(String name, String lastName, byte age) {
+
+
+    public void saveUser(String name, String lastName, int Age) throws SystemException {
 
     }
 
