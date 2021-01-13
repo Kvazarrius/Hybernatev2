@@ -12,10 +12,10 @@ import java.sql.SQLData;
 import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.List;
-@Entity
+
 public class UserDaoHibernateImpl implements UserDao {
-    private Session session = null;
-    private Transaction tx = null;
+    private Session session;
+    private Transaction tx;
 
     public UserDaoHibernateImpl() { }
 
